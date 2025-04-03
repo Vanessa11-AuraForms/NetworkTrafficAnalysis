@@ -1,0 +1,33 @@
+Network Traffic Analysis using Cisco Ethical Hacker Program
+Overview
+This project focuses on analyzing network traffic to identify potential security threats, suspicious activities, and anomalies using tools and techniques learned in the Cisco Ethical Hacker program. The project aims to enhance cybersecurity skills by leveraging network packet analysis, intrusion detection, and threat intelligence techniques.
+Objectives
+
+Capture and analyze network traffic using Wireshark and tcpdump.
+
+Identify malicious traffic patterns and security breaches.
+
+Apply ethical hacking methodologies to assess network vulnerabilities.
+
+Document findings and propose security recommendations.
+Tools & Technologies Used
+
+Wireshark – Packet analysis and deep packet inspection.
+
+tcpdump – Command-line network traffic capture tool.
+
+Snort – Intrusion detection system for real-time analysis.
+
+Cisco Packet Tracer – Network simulation and traffic analysis.
+Key Findings
+
+Detection of unauthorized access attempts through abnormal login patterns.
+
+Identification of malware-infected packets in network traffic.
+
+Analysis of DNS tunneling attacks and their impact on security.
+
+Implementation of firewall rules and intrusion detection alerts to mitigate threats.
+Report
+For a detailed analysis, including methodologies, findings, and recommendations, download the full report below:
+
